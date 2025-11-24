@@ -1,1 +1,2 @@
-prueba
+Integrante 3. David Alberto Castro Soto
+Estoy realizando un pull request agregando un archivo de prueba para explorar la funsion de ramas(merge)
